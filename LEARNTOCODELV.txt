@@ -1,0 +1,24 @@
+LEARNTOCODELV.COM
+3gACvYPnTJo1
+
+Dns Zone check is enabled.
++===================================+
+| New Account Info                  |
++===================================+
+| Domain: learntocodelv.com
+| Ip: 74.124.215.159 (n)
+| HasCgi: y
+| UserName: learntocode
+| PassWord: 3gACvYPnTJo1
+| CpanelMod: paper_lantern
+| HomeRoot: /home
+| Quota: 5000 Meg
+| NameServer1: ns1.servconfig.com
+| NameServer2: ns2.servconfig.com
+| NameServer3: 
+| NameServer4: 
+| Contact Email: kim@pixelpaper.net
+| Package: tinypi7_small
+| Feature List: default
+| Language: en
++===================================+
